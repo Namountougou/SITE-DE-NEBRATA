@@ -1,6 +1,4 @@
-// Developed at agap2
-// Based on:
-// http://www.codeply.com/go/s3I9ivCBYH/multi-carousel-single-slide-bootstrap-4
+
 
 $('.multi-item-carousel').on('slide.bs.carousel', function (e) {
     let $e = $(e.relatedTarget),
