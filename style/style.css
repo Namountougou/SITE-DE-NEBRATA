@@ -65,7 +65,7 @@ body {
     background-color: #00c4cc;
     height: 100%;
     width: 50%;
-    margin-left: 29rem;
+    margin-left: 25rem;
     margin-top: 65px;
     text-align: center;
 }
@@ -117,8 +117,8 @@ section {
 .inner{
     height: 447px;
     width: 94%;
-    margin-left: 50px;
 }
+
 .inner1 {
   height: 447px;
   width: 94%;
@@ -127,6 +127,7 @@ section {
 .carousel-item img {
   height: 100%;
 }
+
 .emploi {
   justify-content: space-around;
 }
@@ -154,7 +155,7 @@ section {
 .num li a {
   margin-right: 2rem !important;
 
-  color: black;
+  color: black !important;
 }
 
 
